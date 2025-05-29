@@ -1,10 +1,10 @@
-# 👋 Hi, I’m Mehdi Hindi
+#  Hi, I’m Mehdi Hindi
 
 I’m a QA Engineer with a growing passion for data engineering. I started my career breaking systems (the right way) and making them better through thoughtful manual and automated testing. Along the way, I discovered my curiosity didn’t stop at bugs but it extended into the data behind the systems.
 
 Now I’m building projects that bridge quality assurance with data infrastructure. Exploring Python, SQL, ETL workflows, and backend design to deepen my understanding of how data moves, transforms, and powers great products.
 
-💡 I believe in clean data, collaborative teams, and always going the extra mile to understand *how things work*.
+ I believe in clean data, collaborative teams, and always going the extra mile to understand *how things work*.
 
 ---
 
